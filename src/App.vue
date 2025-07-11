@@ -5,7 +5,7 @@ import Cookies from 'js-cookie'
 
 <template>
   <header class="top-bar">
-    <div class="logo">控制面板</div>
+    <div class="logo">智能教室管理系统--控制面板  作者：肖翰霖 项目已开源至Github</div>
     <nav class="nav-links">
       <router-link class="nav-item" to="/">主页</router-link>
       <router-link class="nav-item" to="/TeachData">教学数据</router-link>
